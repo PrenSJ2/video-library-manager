@@ -41,8 +41,8 @@ VideoLib is a clean and modern full-stack web application for browsing and manag
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/PrenSJ2/video-library-manager
+    cd video-library-manager
     ```
 
 2.  **Set up environment variables:**
