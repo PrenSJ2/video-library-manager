@@ -1,0 +1,5 @@
+{
+  "name": "Video Library Manager",
+  "description": "An application to browse and manage a personal video library. Users can view existing videos in a sortable grid and add new videos through a simple form.",
+  "requestFramePermissions": []
+}
